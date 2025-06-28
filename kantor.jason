@@ -1,1 +1,22 @@
-
+{
+  "enabled": true,
+  "show_after": "2025-07-22",
+  "force_update": false,
+  "title": "Sekilas Info",
+  "message": "Senin penuh berkah : 23-06-2025",
+  "link_text": "TTD : DEARON IRVAN",
+  "link_url": "https://t.me/+6BPuxAEhOqpiYmY1",
+  "buttons": [
+    {
+      "text": "----",
+      "action": "url",
+      "target": "https://t.me/+6BPuxAEhOqpiYmY1",
+      "style": "primary"
+    },
+    {
+      "text": "Tutup",
+      "action": "dismiss",
+      "style": "secondary"
+    }
+  ]
+}
