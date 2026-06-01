@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "show_after": "2026-06-02",
+  "show_after": "2026-06-01",
   "force_update": false,
   "title": "Sekilas Info!!!",
-  "message": "Terima kasih atas partisipasinya telah membayar tepat waktu, selamat beraktivitas di bulan mei 😄🙏",
+  "message": "Jgn lpa hari ini terakhir utk setoran, bsk sudah CLOSED!",
   "link_text": "TTD : DEV DARKIT",
   "link_url": "https://t.me/+6BPuxAEhOqpiYmY1",
   "buttons": [
