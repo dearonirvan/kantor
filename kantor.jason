@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "show_after": "2026-11-02",
+  "show_after": "2026-11-01",
   "force_update": false,
   "title": "Sekilas Info!!!",
-  "message": "Jgn lpa hari ini tggl 2 dan yg blm setor hari ini maka bsk tggl 3 AUTO CLOSED!",
+  "message": "Jgn lpa hari ini tggl 1 dan yg blm setor maksimal tggl 3 akan auto expired",
   "link_text": "TTD : DEV DARKIT",
   "link_url": "https://t.me/+6BPuxAEhOqpiYmY1",
   "buttons": [
